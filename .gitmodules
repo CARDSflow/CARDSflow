@@ -4,3 +4,6 @@
 [submodule "rviz"]
 	path = rviz
 	url = https://github.com/CARDSflow/rviz
+[submodule "roboy_communication"]
+	path = roboy_communication
+	url = https://github.com/Roboy/roboy_communication
