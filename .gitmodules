@@ -1,0 +1,6 @@
+[submodule "kindyn"]
+	path = kindyn
+	url = https://github.com/CARDSflow/kindyn
+[submodule "rviz"]
+	path = rviz
+	url = https://github.com/CARDSflow/rviz
