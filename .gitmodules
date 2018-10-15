@@ -7,3 +7,6 @@
 [submodule "roboy_communication"]
 	path = roboy_communication
 	url = https://github.com/Roboy/roboy_communication
+[submodule "robots"]
+	path = robots
+	url = https://github.com/CARDSflow/robots
