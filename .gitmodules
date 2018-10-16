@@ -1,12 +1,12 @@
 [submodule "kindyn"]
 	path = kindyn
 	url = https://github.com/CARDSflow/kindyn
-[submodule "rviz"]
-	path = rviz
-	url = https://github.com/CARDSflow/rviz
 [submodule "roboy_communication"]
 	path = roboy_communication
 	url = https://github.com/Roboy/roboy_communication
 [submodule "robots"]
 	path = robots
 	url = https://github.com/CARDSflow/robots
+[submodule "cardsflow_rviz"]
+	path = cardsflow_rviz
+	url = https://github.com/CARDSflow/cardsflow_rviz
