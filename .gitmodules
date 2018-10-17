@@ -10,3 +10,6 @@
 [submodule "cardsflow_rviz"]
 	path = cardsflow_rviz
 	url = https://github.com/CARDSflow/cardsflow_rviz
+[submodule "common_utilities"]
+	path = common_utilities
+	url = https://github.com/Roboy/common_utilities
