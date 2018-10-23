@@ -13,3 +13,6 @@
 [submodule "common_utilities"]
 	path = common_utilities
 	url = https://github.com/Roboy/common_utilities
+[submodule "cardsflow_gazebo"]
+	path = cardsflow_gazebo
+	url = https://github.com/cardsflow/cardsflow_gazebo
