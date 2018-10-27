@@ -1,14 +1,11 @@
 var searchData=
 [
-  ['magnetic',['magnetic',['../structsensors__event__t.html#aa634d41a024e1cacdceecf85ec326698',1,'sensors_event_t']]],
-  ['magneticshoulderjointpublisher',['magneticShoulderJointPublisher',['../class_roboy_plexus.html#ad714ada84d13e099de6a6db3080ddcb5',1,'RoboyPlexus']]],
-  ['max_5fvalue',['max_value',['../structsensor__t.html#a1a17359f1080eb169a452656f7dec1ee',1,'sensor_t']]],
-  ['min_5fdelay',['min_delay',['../structsensor__t.html#a1cd271377ff25ec9ca54886f876c87ec',1,'sensor_t']]],
-  ['min_5fvalue',['min_value',['../structsensor__t.html#a4556ed82a0389a7f6af25a6fd0ee1431',1,'sensor_t']]],
-  ['motoranglepublisher',['motorAnglePublisher',['../class_roboy_plexus.html#abd7174abb16f080ce185d9361871cd7b',1,'RoboyPlexus']]],
-  ['motorcalibrationservice',['MotorCalibrationService',['../class_roboy_plexus.html#a707531dc660fc008c211610e5c4c38c3',1,'RoboyPlexus']]],
-  ['motorcommandcb',['motorCommandCB',['../class_roboy_plexus.html#aec83b658f1df4fc25502a5cf06041313',1,'RoboyPlexus']]],
-  ['motorconfigservice',['MotorConfigService',['../class_roboy_plexus.html#a0b90b81f5d6deb5d76c67b0da39c020a',1,'RoboyPlexus']]],
-  ['motorstatuspublisher',['motorStatusPublisher',['../class_roboy_plexus.html#a3e9e372d4d3d3a261f8a2b09bc658206',1,'RoboyPlexus']]],
-  ['myocontrol',['MyoControl',['../class_myo_control.html',1,'MyoControl'],['../class_myo_control.html#a4da4c67e4f83bdecb3d465adb1300fa2',1,'MyoControl::MyoControl(vector&lt; int32_t * &gt; &amp;myo_base)'],['../class_myo_control.html#a2a95c50161abf12ab2209555e6be8475',1,'MyoControl::MyoControl(vector&lt; int32_t * &gt; &amp;myo_base, int32_t *adc_base)']]]
+  ['object_5fot_5fbutton',['OBJECT_OT_Button',['../classvia_points_plugin_1_1_o_b_j_e_c_t___o_t___button.html',1,'viaPointsPlugin']]],
+  ['object_5fot_5fbutton',['OBJECT_OT_Button',['../classmodel_loader_1_1_o_b_j_e_c_t___o_t___button.html',1,'modelLoader']]],
+  ['object_5fpt_5fmy_5fpanel',['OBJECT_PT_my_panel',['../classmodel_loader_1_1_o_b_j_e_c_t___p_t__my__panel.html',1,'modelLoader']]],
+  ['object_5fpt_5fmy_5fpanel',['OBJECT_PT_my_panel',['../classvia_points_plugin_1_1_o_b_j_e_c_t___p_t__my__panel.html',1,'viaPointsPlugin']]],
+  ['ootxframe',['OOTXframe',['../struct_o_o_t_xframe.html',1,'']]],
+  ['operator_3c_3c',['operator&lt;&lt;',['../class_gnuplot.html#afb69631c7a498077e378a3cbb56f38c8',1,'Gnuplot']]],
+  ['outputnegmax',['outputNegMax',['../structcontrol___parameters__t.html#ab8fb18fa2985753a465c703ab4d6f65d',1,'control_Parameters_t']]],
+  ['outputposmax',['outputPosMax',['../structcontrol___parameters__t.html#af5b7db0bec383d4655500f2741581e07',1,'control_Parameters_t']]]
 ];

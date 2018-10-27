@@ -1,4 +1,8 @@
 var searchData=
 [
-  ['finalize',['finalize',['../class_c_r_c32.html#a6cf02e2e09cfdea2806ea8d2a86c2355',1,'CRC32']]]
+  ['gear',['Gear',['../structcardsflow__gazebo_1_1_gear.html',1,'cardsflow_gazebo']]],
+  ['get_5fprogram_5fpath',['get_program_path',['../class_gnuplot.html#a3a769e47861d74fa713070ecd857dd17',1,'Gnuplot']]],
+  ['gnucmd',['gnucmd',['../class_gnuplot.html#a93e59138d3e192ffa2a4f0d7c310d61d',1,'Gnuplot']]],
+  ['gnuplot',['Gnuplot',['../class_gnuplot.html',1,'Gnuplot'],['../class_gnuplot.html#a187eb517b362cf379492fe7f1621ee50',1,'Gnuplot::Gnuplot(const std::string &amp;style=&quot;points&quot;)'],['../class_gnuplot.html#a8ceac5808e42665c1dee305ae7ea9070',1,'Gnuplot::Gnuplot(const std::vector&lt; double &gt; &amp;x, const std::string &amp;title=&quot;&quot;, const std::string &amp;style=&quot;points&quot;, const std::string &amp;labelx=&quot;x&quot;, const std::string &amp;labely=&quot;y&quot;)'],['../class_gnuplot.html#a24327b6116c71acdc195eadf665c67cb',1,'Gnuplot::Gnuplot(const std::vector&lt; double &gt; &amp;x, const std::vector&lt; double &gt; &amp;y, const std::string &amp;title=&quot;&quot;, const std::string &amp;style=&quot;points&quot;, const std::string &amp;labelx=&quot;x&quot;, const std::string &amp;labely=&quot;y&quot;)'],['../class_gnuplot.html#a14191e89154f2716608f6907975cc012',1,'Gnuplot::Gnuplot(const std::vector&lt; double &gt; &amp;x, const std::vector&lt; double &gt; &amp;y, const std::vector&lt; double &gt; &amp;z, const std::string &amp;title=&quot;&quot;, const std::string &amp;style=&quot;points&quot;, const std::string &amp;labelx=&quot;x&quot;, const std::string &amp;labely=&quot;y&quot;, const std::string &amp;labelz=&quot;z&quot;)']]],
+  ['gnuplotexception',['GnuplotException',['../class_gnuplot_exception.html',1,'']]]
 ];

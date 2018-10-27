@@ -1,11 +1,16 @@
 var searchData=
 [
-  ['setdisplacement',['setDisplacement',['../class_myo_control.html#aa4be6ebad37dbd36b074e76c87543b24',1,'MyoControl']]],
-  ['setextcrystaluse',['setExtCrystalUse',['../class_adafruit___b_n_o055.html#adb83ce126b421a36b45ed9f6a437a584',1,'Adafruit_BNO055']]],
-  ['setmode',['setMode',['../class_adafruit___b_n_o055.html#a899d247370c86febc01ca431eabac3f4',1,'Adafruit_BNO055']]],
-  ['setpidcontrollerparams',['setPIDcontrollerParams',['../class_myo_control.html#a1ea953d08c89c128ad34568c990ab48d',1,'MyoControl']]],
-  ['setposition',['setPosition',['../class_myo_control.html#a4d200c01756588039b05c49d00d37046',1,'MyoControl']]],
-  ['setsensoroffsets',['setSensorOffsets',['../class_adafruit___b_n_o055.html#a0061212193d496480ea03f2bf65c146b',1,'Adafruit_BNO055::setSensorOffsets(const uint8_t *calibData)'],['../class_adafruit___b_n_o055.html#a5bf6f9bf48b4dc750e0d33a7d71127c6',1,'Adafruit_BNO055::setSensorOffsets(const adafruit_bno055_offsets_t &amp;offsets_type)']]],
-  ['setspiactive',['setSPIactive',['../class_myo_control.html#a3721746039cb66505a59994c27d6981d',1,'MyoControl']]],
-  ['setvelocity',['setVelocity',['../class_myo_control.html#a3b962d3f5a883c7af6bae3a87afce008',1,'MyoControl']]]
+  ['readconfig',['readConfig',['../class_motor_config.html#a13994493c488206c4375d2c013c996f1',1,'MotorConfig']]],
+  ['readsim',['readSim',['../class_cardsflow_gazebo.html#af0c451d8b5e0e2690015fa8557814323',1,'CardsflowGazebo']]],
+  ['receivehostip',['receiveHostIP',['../class_u_d_p_socket.html#a7d50ae29b79a019123c6cb9ced18ea81',1,'UDPSocket']]],
+  ['receivesensordata',['receiveSensorData',['../class_u_d_p_socket.html#a703fd5733ba6cc639093946b69e072de',1,'UDPSocket']]],
+  ['receiveudp',['receiveUDP',['../class_u_d_p_socket.html#a84176ea0f256923f8cc471037890a75d',1,'UDPSocket']]],
+  ['receiveudpfromclient',['receiveUDPFromClient',['../class_u_d_p_socket.html#a4476f0a01a3867c8c022fec2ea9b197e',1,'UDPSocket']]],
+  ['remove_5ftmpfiles',['remove_tmpfiles',['../class_gnuplot.html#a2e449552587b0055f40f4ee079d62a8d',1,'Gnuplot']]],
+  ['replot',['replot',['../class_gnuplot.html#a34c1b3e877d246a841a29f857a29f502',1,'Gnuplot']]],
+  ['reset',['Reset',['../class_cardsflow_gazebo.html#abec2d8d3eed9a7d0a1232ee9440139e0',1,'CardsflowGazebo']]],
+  ['reset_5fall',['reset_all',['../class_gnuplot.html#a9aedfe8371083a1a3ac2b9493810049c',1,'Gnuplot']]],
+  ['reset_5fplot',['reset_plot',['../class_gnuplot.html#a6797761712d3c311e3685bcccba65dd4',1,'Gnuplot']]],
+  ['robot',['Robot',['../classcardsflow_1_1kindyn_1_1_robot.html#a4fc7c70ae20623f05e06f2ecb388b6c4',1,'cardsflow::kindyn::Robot']]],
+  ['robotstate',['RobotState',['../class_cardsflow_rviz.html#a4ecf03ee35fb97a679d42dee1fc530b5',1,'CardsflowRviz']]]
 ];

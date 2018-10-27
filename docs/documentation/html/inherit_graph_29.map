@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classmodel_loader_1_1_collision_pose.html" title="modelLoader.CollisionPose" alt="" coords="168,5,348,32"/>
+<area shape="rect" id="node3" href="$classmodel_loader_1_1_directory_path.html" title="modelLoader.DirectoryPath" alt="" coords="168,56,348,83"/>
+<area shape="rect" id="node4" href="$classmodel_loader_1_1_file_path.html" title="modelLoader.FilePath" alt="" coords="184,107,332,133"/>
+<area shape="rect" id="node5" href="$classvia_points_plugin_1_1_directory_path.html" title="viaPointsPlugin.DirectoryPath" alt="" coords="160,157,356,184"/>
+<area shape="rect" id="node6" href="$classvia_points_plugin_1_1_file_path.html" title="viaPointsPlugin.FilePath" alt="" coords="176,208,340,235"/>
+</map>

@@ -1,17 +1,19 @@
 var searchData=
 [
-  ['sensor',['Sensor',['../class_adafruit___l_s_m9_d_s1_1_1_sensor.html',1,'Adafruit_LSM9DS1']]],
-  ['sensor_5fid',['sensor_id',['../structsensors__event__t.html#a6b06d35b17afbee79de7f45d9d71ed0b',1,'sensors_event_t::sensor_id()'],['../structsensor__t.html#a224f6201d59873cc1b6e9dd8a1894736',1,'sensor_t::sensor_id()']]],
-  ['sensor_5ft',['sensor_t',['../structsensor__t.html',1,'']]],
-  ['sensors_5fcolor_5ft',['sensors_color_t',['../structsensors__color__t.html',1,'']]],
-  ['sensors_5fevent_5ft',['sensors_event_t',['../structsensors__event__t.html',1,'']]],
-  ['sensors_5fvec_5ft',['sensors_vec_t',['../structsensors__vec__t.html',1,'']]],
-  ['setdisplacement',['setDisplacement',['../class_myo_control.html#aa4be6ebad37dbd36b074e76c87543b24',1,'MyoControl']]],
-  ['setextcrystaluse',['setExtCrystalUse',['../class_adafruit___b_n_o055.html#adb83ce126b421a36b45ed9f6a437a584',1,'Adafruit_BNO055']]],
-  ['setmode',['setMode',['../class_adafruit___b_n_o055.html#a899d247370c86febc01ca431eabac3f4',1,'Adafruit_BNO055']]],
-  ['setpidcontrollerparams',['setPIDcontrollerParams',['../class_myo_control.html#a1ea953d08c89c128ad34568c990ab48d',1,'MyoControl']]],
-  ['setposition',['setPosition',['../class_myo_control.html#a4d200c01756588039b05c49d00d37046',1,'MyoControl']]],
-  ['setsensoroffsets',['setSensorOffsets',['../class_adafruit___b_n_o055.html#a0061212193d496480ea03f2bf65c146b',1,'Adafruit_BNO055::setSensorOffsets(const uint8_t *calibData)'],['../class_adafruit___b_n_o055.html#a5bf6f9bf48b4dc750e0d33a7d71127c6',1,'Adafruit_BNO055::setSensorOffsets(const adafruit_bno055_offsets_t &amp;offsets_type)']]],
-  ['setspiactive',['setSPIactive',['../class_myo_control.html#a3721746039cb66505a59994c27d6981d',1,'MyoControl']]],
-  ['setvelocity',['setVelocity',['../class_myo_control.html#a3b962d3f5a883c7af6bae3a87afce008',1,'MyoControl']]]
+  ['udpsocket',['UDPSocket',['../class_u_d_p_socket.html',1,'UDPSocket'],['../class_u_d_p_socket.html#a0279338b94d1831dc4915d4854321b8f',1,'UDPSocket::UDPSocket(const char *server_IP, int server_port, const char *client_IP, int client_port, bool exclusive=true)'],['../class_u_d_p_socket.html#aa8720bcce5f8e505ee34525387a919d2',1,'UDPSocket::UDPSocket(const char *client_IP, int client_port, bool exclusive=true)'],['../class_u_d_p_socket.html#ab9b8ff1ef22690d35ad408c15f24a410',1,'UDPSocket::UDPSocket(int port, int broadcastIP=0xffffffff, bool broadcaster=false)'],['../class_u_d_p_socket.html#ab4b451b1b47d91ae9710e23c5a8674d2',1,'UDPSocket::UDPSocket(int port, bool broadcaster)']]],
+  ['unset_5fcontour',['unset_contour',['../class_gnuplot.html#a0b8522cb81e46dd4f5a22b7b48f977b1',1,'Gnuplot']]],
+  ['unset_5fgrid',['unset_grid',['../class_gnuplot.html#a53183e1487bc6977f0d46bf75d19b4d3',1,'Gnuplot']]],
+  ['unset_5fhidden3d',['unset_hidden3d',['../class_gnuplot.html#ab8688182047f746090e1e5f2a8c11c9e',1,'Gnuplot']]],
+  ['unset_5flegend',['unset_legend',['../class_gnuplot.html#ace901a18ab1a459213afd3ee0233b5ce',1,'Gnuplot']]],
+  ['unset_5fmultiplot',['unset_multiplot',['../class_gnuplot.html#aad76cdec16cfb5fdf82f45ed2786f4d8',1,'Gnuplot']]],
+  ['unset_5fsmooth',['unset_smooth',['../class_gnuplot.html#ad9dfbccd66dece1dbe5803605c6ab08c',1,'Gnuplot']]],
+  ['unset_5fsurface',['unset_surface',['../class_gnuplot.html#a4ebddacbec61aa3e7bc4b89f508ad621',1,'Gnuplot']]],
+  ['unset_5ftitle',['unset_title',['../class_gnuplot.html#aca0aeb1dc0ac8d7e68ba6a15a977be28',1,'Gnuplot']]],
+  ['unset_5fxlogscale',['unset_xlogscale',['../class_gnuplot.html#a7b178184260f1498cd0c11a197ea0ac2',1,'Gnuplot']]],
+  ['unset_5fylogscale',['unset_ylogscale',['../class_gnuplot.html#a9217543dd49c4802b1194d42c5e10b6d',1,'Gnuplot']]],
+  ['unset_5fzlogscale',['unset_zlogscale',['../class_gnuplot.html#afa67f022ca344593b054d7f2e3406c7e',1,'Gnuplot']]],
+  ['update',['Update',['../class_cardsflow_gazebo.html#afed4ad990ffd6b6f552f89ddc2b33348',1,'CardsflowGazebo']]],
+  ['updateforcepoints',['UpdateForcePoints',['../classcardsflow__gazebo_1_1_cylindrical_wrapping.html#a4097b27a890882633714cd836a8db304',1,'cardsflow_gazebo::CylindricalWrapping::UpdateForcePoints()'],['../classcardsflow__gazebo_1_1_i_via_points.html#a362e5ab5be78514a7460d1651508b4b2',1,'cardsflow_gazebo::IViaPoints::UpdateForcePoints()'],['../classcardsflow__gazebo_1_1_mesh_wrapping.html#aa5c1e8b23a8163608fb15d4b4de5789e',1,'cardsflow_gazebo::MeshWrapping::UpdateForcePoints()'],['../classcardsflow__gazebo_1_1_spherical_wrapping.html#afde9f888ff7e3f2d95aa419f0fe18790',1,'cardsflow_gazebo::SphericalWrapping::UpdateForcePoints()']]],
+  ['updaterevcounter',['UpdateRevCounter',['../classcardsflow__gazebo_1_1_state_machine.html#aede7488fe37333dbedb6f7c995c66d9d',1,'cardsflow_gazebo::StateMachine']]],
+  ['updatestate',['UpdateState',['../classcardsflow__gazebo_1_1_state_machine.html#a414b586e08db1e7c905b9d9951006b82',1,'cardsflow_gazebo::StateMachine']]]
 ];

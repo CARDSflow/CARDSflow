@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['g',['g',['../structsensors__color__t.html#ac91ecea980718cf134f60c497d2a0049',1,'sensors_color_t']]],
-  ['gyro',['gyro',['../structsensors__event__t.html#ad108ea8c3a18d02cfc674ba27e94a2c4',1,'sensors_event_t']]]
+  ['m_5fsgnuplotfilename',['m_sGNUPlotFileName',['../class_gnuplot.html#ae71e004ab7266f34d270cf76ea143e2b',1,'Gnuplot']]],
+  ['m_5fsgnuplotpath',['m_sGNUPlotPath',['../class_gnuplot.html#a3c5949b04c54833eb685c30322c816e6',1,'Gnuplot']]]
 ];

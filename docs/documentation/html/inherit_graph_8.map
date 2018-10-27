@@ -1,3 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_c_r_c32.html" title="A class for calculating the CRC32 checksum from arbitrary data. " alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node1" href="$classcardsflow__gazebo_1_1_i_via_points.html" title="cardsflow_gazebo::IViaPoints" alt="" coords="5,71,200,98"/>
+<area shape="rect" id="node2" href="$classcardsflow__gazebo_1_1_cylindrical_wrapping.html" title="cardsflow_gazebo::Cylindrical\lWrapping" alt="" coords="261,5,457,47"/>
+<area shape="rect" id="node3" href="$classcardsflow__gazebo_1_1_mesh_wrapping.html" title="cardsflow_gazebo::MeshWrapping" alt="" coords="248,71,471,98"/>
+<area shape="rect" id="node4" href="$classcardsflow__gazebo_1_1_spherical_wrapping.html" title="cardsflow_gazebo::Spherical\lWrapping" alt="" coords="265,123,454,164"/>
 </map>

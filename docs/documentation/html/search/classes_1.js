@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['crc32',['CRC32',['../class_c_r_c32.html',1,'']]]
+  ['directorypath',['DirectoryPath',['../classvia_points_plugin_1_1_directory_path.html',1,'viaPointsPlugin']]],
+  ['directorypath',['DirectoryPath',['../classmodel_loader_1_1_directory_path.html',1,'modelLoader']]]
 ];
