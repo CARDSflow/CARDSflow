@@ -19,3 +19,6 @@
 [submodule "cardsflow_rqt"]
 	path = cardsflow_rqt
 	url = https://github.com/CARDSflow/cardsflow_rqt
+[submodule "iDynTree"]
+	path = iDynTree
+	url = https://github.com/robotology/iDynTree
