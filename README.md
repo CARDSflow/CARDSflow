@@ -41,3 +41,6 @@ Simply build your catkin workspace:
 cd path/to/your/catkin_ws
 catkin_make
 ```
+
+### Download sd-card image
+TODO
