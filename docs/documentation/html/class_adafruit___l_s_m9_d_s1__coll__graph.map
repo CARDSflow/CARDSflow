@@ -1,0 +1,10 @@
+<map id="Adafruit_LSM9DS1" name="Adafruit_LSM9DS1">
+<area shape="rect" id="node4" href="$class_adafruit___l_s_m9_d_s1_1_1_sensor.html" title="Adafruit_LSM9DS1::Sensor" alt="" coords="199,272,382,299"/>
+<area shape="rect" id="node2" href="$class_i2_c.html" title="I2C" alt="" coords="435,5,477,32"/>
+<area shape="rect" id="node3" href="$struct_adafruit___l_s_m9_d_s1_1_1vector__s.html" title="Adafruit_LSM9DS1::vector_s" alt="" coords="501,5,693,32"/>
+<area shape="rect" id="node5" href="$class_adafruit___sensor.html" title="Adafruit_Sensor" alt="" coords="5,139,120,165"/>
+<area shape="rect" id="node6" href="$structsensor__t.html" title="struct sensor_s is used to describe basic information about a specific sensor. " alt="" coords="144,139,216,165"/>
+<area shape="rect" id="node7" href="$structsensors__event__t.html" title="struct sensor_event_s is used to provide a single sensor event in a common format. " alt="" coords="241,139,359,165"/>
+<area shape="rect" id="node8" href="$structsensors__color__t.html" title="struct sensors_color_s is used to return color data in a common format. " alt="" coords="125,5,240,32"/>
+<area shape="rect" id="node9" href="$structsensors__vec__t.html" title="struct sensors_vec_s is used to return a vector in a common format. " alt="" coords="264,5,371,32"/>
+</map>

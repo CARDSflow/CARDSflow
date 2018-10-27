@@ -1,0 +1,4 @@
+<map id="sensors_event_t" name="sensors_event_t">
+<area shape="rect" id="node2" href="$structsensors__color__t.html" title="struct sensors_color_s is used to return color data in a common format. " alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node3" href="$structsensors__vec__t.html" title="struct sensors_vec_s is used to return a vector in a common format. " alt="" coords="144,5,251,32"/>
+</map>

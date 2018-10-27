@@ -1,0 +1,10 @@
+<map id="Adafruit_LSM9DS1::Sensor" name="Adafruit_LSM9DS1::Sensor">
+<area shape="rect" id="node7" href="$class_adafruit___l_s_m9_d_s1.html" title="Adafruit_LSM9DS1" alt="" coords="147,361,282,388"/>
+<area shape="rect" id="node2" href="$class_adafruit___sensor.html" title="Adafruit_Sensor" alt="" coords="205,139,320,165"/>
+<area shape="rect" id="node3" href="$structsensor__t.html" title="struct sensor_s is used to describe basic information about a specific sensor. " alt="" coords="344,139,416,165"/>
+<area shape="rect" id="node4" href="$structsensors__event__t.html" title="struct sensor_event_s is used to provide a single sensor event in a common format. " alt="" coords="441,139,559,165"/>
+<area shape="rect" id="node5" href="$structsensors__color__t.html" title="struct sensors_color_s is used to return color data in a common format. " alt="" coords="375,5,489,32"/>
+<area shape="rect" id="node6" href="$structsensors__vec__t.html" title="struct sensors_vec_s is used to return a vector in a common format. " alt="" coords="513,5,620,32"/>
+<area shape="rect" id="node8" href="$class_i2_c.html" title="I2C" alt="" coords="5,228,48,255"/>
+<area shape="rect" id="node9" href="$struct_adafruit___l_s_m9_d_s1_1_1vector__s.html" title="Adafruit_LSM9DS1::vector_s" alt="" coords="72,228,264,255"/>
+</map>
