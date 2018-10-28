@@ -28,5 +28,6 @@ Now you can build CARDSflow simply by building your catkin workspace:
 ::
     cd path/to/your/catkin_ws
     catkin_make
+    source devel/setup.bash
 
 .. _iDynTree: https://github.com/robotology/idyntree
