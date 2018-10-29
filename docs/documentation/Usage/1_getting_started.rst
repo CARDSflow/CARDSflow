@@ -1,7 +1,9 @@
 Getting started
 ===============
+
 ::
     source ~/your_catkin_ws/devel/setup.bash # in every new terminal
+
 
 Booting up the robot
 --------------------
