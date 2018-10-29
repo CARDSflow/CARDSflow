@@ -43,7 +43,17 @@ catkin_make
 ```
 
 ### Download sd-card image
-TODO
+#### raspberry pi 3B
+Download the image using the following command:
+```bash
+wget -nv http://bot.roboy.org:8081/~roboy/CARDSflow_raspberry_pi3B.md5sum
+wget -nv http://bot.roboy.org:8081/~roboy/CARDSflow_raspberry_pi3B.img
+```
+Use a 16GB SDcard and flash the image using the following command. NOTE: make sure you are using the correct sd-card device (/dev/sdX), otherwise you might wipe your whole system!!!
+```bash
+sudo dd if=CARDSflow_raspberry_pi3B.img of=/dev/sdX bs=1M status=progress
+```
+Insert the sd-card into the raspi and power it. The image provides Ubuntu 16.03 MATE with ROS kinetic installed. In the home folder you can find the roboy_arcade_maschine workspace which contains a build version of CARDSflow.
 
 ## Running the examples
 In the kindyn package a couple of example robots can be found. You can run them with the provided robot.launch file:
