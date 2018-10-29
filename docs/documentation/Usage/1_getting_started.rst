@@ -1,8 +1,6 @@
 Getting started
 ===============
-.. note:: For every new terminal you use, don't forget to source your catkin workspace:
-::
-    source ~/your_catkin_ws/devel/setup.bash
+.. note:: For every new terminal you use, don't forget to source your catkin workspace
 
 Booting up the robot
 --------------------
