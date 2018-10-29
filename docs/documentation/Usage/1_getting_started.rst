@@ -1,6 +1,6 @@
 Getting started
 ===============
-.. note:: For every new terminal you use, don't forget to source your catkin workspace
+.. seealso:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
 
 Booting up the robot
 --------------------
