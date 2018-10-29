@@ -4,6 +4,7 @@ Getting started
 Booting up the robot
 --------------------
 In the kindyn package a couple of example robots can be found. You can run them with the provided robot.launch file:
+
 msj_platform
 ~~~~~~~~~~~~
 A robot that was build for training one of the 3-DoF shoulders of Roboy 2.0. It uses 8 cables to control the 3-DoFs.
@@ -28,8 +29,8 @@ A retro arcad maschine in the Roboy lab that has a 3-DoF Roboy head mounted on t
 
 Visualizing the robot state
 ---------------------------
-Start Rviz using :bash:`rviz&`. In the GUI menu go to :code:`Panels->Add New Panel->CardsflowRviz`. You should see the UI controls for visualizing tendons, forces, etc.
+Start Rviz using :code:`rviz&`. In the GUI menu go to :code:`Panels->Add New Panel->CardsflowRviz`. You should see the UI controls for visualizing tendons, forces, etc.
 
 Controlling the robot
 ---------------------
-One can publish to a corresponding ROS topic target joint angles (use :bash:`rostopic list` to identify them) or an RQT plugin by running :bash:`rqt&` and adding the CARDSflow plugin from the menu.
+One can publish to a corresponding ROS topic target joint angles (use :code:`rostopic list` to identify them) or an RQT plugin by running :code:`rqt&` and adding the CARDSflow plugin from the menu.
