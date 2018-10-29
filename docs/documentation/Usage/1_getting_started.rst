@@ -1,10 +1,6 @@
 Getting started
 ===============
 
-::
-    source ~/your_catkin_ws/devel/setup.bash # in every new terminal
-
-
 Booting up the robot
 --------------------
 In the kindyn package a couple of example robots can be found. You can run them with the provided robot.launch file:
@@ -32,3 +28,8 @@ A retro arcad maschine in the Roboy lab that has a 3-DoF Roboy head mounted on t
 
 Visualizing the robot state
 ---------------------------
+Start Rviz using :bash:`rviz&`. In the GUI menu go to :code:`Panels->Add New Panel->CardsflowRviz`. You should see the UI controls for visualizing tendons, forces, etc.
+
+Controlling the robot
+---------------------
+One can publish to a corresponding ROS topic target joint angles (use :bash:`rostopic list` to identify them) or an RQT plugin by running :bash:`rqt&` and adding the CARDSflow plugin from the menu.
