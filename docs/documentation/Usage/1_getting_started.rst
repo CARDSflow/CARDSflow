@@ -1,6 +1,7 @@
 Getting started
 ===============
-.. seealso:: This is a simple **seealso** note. Other inline directive may be included (e.g., math :math:`\alpha`) but not al of them.
+::
+    source ~/your_catkin_ws/devel/setup.bash # in every new terminal
 
 Booting up the robot
 --------------------
