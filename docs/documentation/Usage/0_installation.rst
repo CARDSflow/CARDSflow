@@ -31,3 +31,17 @@ Now you can build CARDSflow simply by building your catkin workspace:
     source devel/setup.bash
 
 .. _iDynTree: https://github.com/robotology/idyntree
+
+RaspberryPi 3B installation
+----------------------------
+
+Download the image using the following command:
+::
+    wget -nv http://bot.roboy.org:8081/~roboy/CARDSflow_raspberry_pi3B.md5sum
+    wget -nv http://bot.roboy.org:8081/~roboy/CARDSflow_raspberry_pi3B.img
+
+Use a 16GB SDcard and flash the image using the following command. NOTE: make sure you are using the correct sd-card device (/dev/sdX), otherwise you might wipe your whole system!!!
+::
+    sudo dd if=CARDSflow_raspberry_pi3B.img of=/dev/sdX bs=1M status=progress
+    
+Insert the sd-card into the raspi and power it. The image provides Ubuntu 16.03 MATE with ROS kinetic installed. In the home folder you can find the roboy_arcade_maschine workspace which contains a build version of CARDSflow.
