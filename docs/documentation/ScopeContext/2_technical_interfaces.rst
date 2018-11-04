@@ -2,35 +2,14 @@
 
 Technical Interfaces
 --------------------
+The following rqt_graph shows an overview of the ROS message infrastructure for one of the example robots, the msj_platform.
+.. figure:: images/rosgraph.*
 
-This section describes the data interfaces to other systems around it. It follows 3 of the `levels of interoperability <https://en.wikipedia.org/wiki/Conceptual_interoperability>`_ (**IO**):
-
-.. todo::
-  For all your interfaces, define their first 3 `levels of interoperability <https://en.wikipedia.org/wiki/Conceptual_interoperability>`_.
-  You can use your doxygen documented source code to i.e. show all members of a class.
-  Find more on the `Breathe Documentation <http://breathe.readthedocs.io/en/latest/directives.html#doxygenclass>`_
-
-- Technical interoperability - Datastreams btwn systems. i.e. TCP/IP, RS232, ...
-- Syntactic interoperability - Units within the stream. i.e. XML, CSV, HL7, DICOM
-- Semantic interoperability - Common definition of unit meaning.
-
-
-Powerlink for MotorControl
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-Technical IO
-##############
-
-Powerlink
-
-Syntactic IO
-##############
-
-SDO, PDO, NMT messages
-
-Semantic IO
-##############
-
-The package names or registers or
-
-.. doxygenclass:: RoboyPlexus
-  :members:
+Two ROS nodes are active, the cardsflow_example_robot and the controller_manager. The cardsflow_example_robot is our
+msj_platform doing all the kinematic calculations. The joint, robot and tendon states are published on the respective
+topics in green. On the left there are three joint target topics available in blue. The controller_manager spawned
+three joint controller and the respective controllers subscribe to these topics as their target setpoints. The controller_type
+topic is advertised by our msj_platform and the controllers publish their type on that topic once they are spawned by the
+controller_manager. The last topic is the interactive_marker topic which the msj_platform subscribes to. When a user
+drags the interactive markers in rviz, the inverse kinematics service is called and the robot will try to move to the
+requested position.
