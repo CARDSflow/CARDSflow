@@ -15,4 +15,5 @@ NOTE: In order for the mesh and tendons to be visible add the following pluins t
 The buttons of the rviz plugin trigger visualization, while the slider change their appearance.
 
 The rqt plugin can be seen in the figure below. The sliders can be used to change the setpoints for the endeffector joints.
+
 .. figure:: images/rqt_plugin.*

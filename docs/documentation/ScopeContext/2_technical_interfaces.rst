@@ -3,6 +3,7 @@
 Technical Interfaces
 --------------------
 The following rqt_graph shows an overview of the ROS message infrastructure for one of the example robots, the msj_platform.
+
 .. figure:: images/rosgraph.*
 
 Two ROS nodes are active, the cardsflow_example_robot and the controller_manager. The cardsflow_example_robot is our
