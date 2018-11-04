@@ -22,3 +22,6 @@
 [submodule "iDynTree"]
 	path = iDynTree
 	url = https://github.com/robotology/iDynTree
+[submodule "qpOASES"]
+	path = qpOASES
+	url = https://github.com/robotology-dependencies/qpOASES
