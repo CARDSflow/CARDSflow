@@ -26,6 +26,11 @@ A retro arcad maschine in the Roboy lab that has a 3-DoF Roboy head mounted on t
 ::
     roslaunch kindyn robot.launch robot_name:=roboy_arcade_maschine start_controllers:='sphere_axis0 sphere_axis1 sphere_axis2'
 
+test_robot
+~~~~~~~~~~
+A robot with 6-DoF, 3 prismatic and 3 rotational, with 20 cables. You can launch it with the following command
+::
+    roslaunch kindyn robot.launch robot_name:=test_robot start_controllers:='joint0 joint1 joint2 sphere_axis0 sphere_axis1 sphere_axis2'
 
 Visualizing the robot state
 ---------------------------
