@@ -25,3 +25,6 @@
 [submodule "qpOASES"]
 	path = qpOASES
 	url = https://github.com/robotology-dependencies/qpOASES
+[submodule "SDFusion"]
+	path = SDFusion
+	url = https://github.com/Roboy/SDFusion.git
