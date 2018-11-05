@@ -23,7 +23,14 @@ First we need to build iDynTree (for more details on this step, visit the iDynTr
     cmake ..
     make -j9
     sudo make install
-
+   
+Next we need to build and install qpoases:
+::
+    cd qpoases
+    mkdir build && cd build
+    cmake ../
+    sudo make -j9 install
+    
 Now you can build CARDSflow simply by building your catkin workspace:
 ::
     cd path/to/your/catkin_ws
