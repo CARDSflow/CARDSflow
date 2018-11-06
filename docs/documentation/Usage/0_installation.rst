@@ -16,7 +16,7 @@ Clone the code to your catkin workspace:
 
 Build From Source
 -----------------
-First we need to build iDynTree (for more details on this step, visit the iDynTree website):
+First we need to build iDynTree (for more details on this step, visit the `iDynTree`_ website):
 ::
     cd path/to/CARDSflow/iDyntree
     mkdir build && cd build
