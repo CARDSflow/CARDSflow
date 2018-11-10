@@ -8,9 +8,10 @@ plugin.
 .. figure:: images/rviz_plugin.*
 
 NOTE: In order for the mesh and tendons to be visible add the following pluins to rviz:
-- Marker
-- TF
-- InteractiveMarkers (you need to change the topic when you add the plugin)
+1) Marker
+2) TF
+3) InteractiveMarkers (you need to change the topic when you add the plugin)
+4) you need to change the fixed frame in rviz from map to world
 
 The buttons of the rviz plugin trigger visualization, while the slider change their appearance.
 
