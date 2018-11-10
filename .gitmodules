@@ -28,3 +28,6 @@
 [submodule "SDFusion"]
 	path = SDFusion
 	url = https://github.com/Roboy/SDFusion.git
+[submodule "CASPR"]
+	path = CASPR
+	url = https://github.com/darwinlau/CASPR
