@@ -7,6 +7,12 @@ Working with CASPR
 .. _CASPR: https://github.com/darwinlau/CASPR
 
 ---------
+ROS matlab custom message support
+---------------------------------
+
+You need to install custom message support for matlab `MATLABROS`_
+
+.. _MATLABROS: https://de.mathworks.com/help/robotics/ug/install-robotics-system-toolbox-support-packages.html
 
 Setting up CASPR
 ----------------

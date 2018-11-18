@@ -44,10 +44,3 @@ A robot with 6-DoF, 3 prismatic and 3 rotational, with 20 cables. You can launch
 ::
     roslaunch kindyn robot.launch robot_name:=test_robot start_controllers:='joint0 joint1 joint2 sphere_axis0 sphere_axis1 sphere_axis2'
 
-Visualizing the robot state
----------------------------
-Start Rviz using :code:`rviz&`. In the GUI menu go to :code:`Panels->Add New Panel->CardsflowRviz`. You should see the UI controls for visualizing tendons, forces, etc.
-
-Controlling the robot
----------------------
-One can publish to a corresponding ROS topic target joint angles (use :code:`rostopic list` to identify them) or an RQT plugin by running :code:`rqt&` and adding the CARDSflow plugin from the menu.
