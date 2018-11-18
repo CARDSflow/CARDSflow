@@ -34,6 +34,9 @@ Launching CARDSflow
 
     roslaunch cardsflow_rviz simple_visualization.launch
 2. Add the CARDSflow panel in RViz
+3. At the Displays Sidebar set Globals Options > Fixed Frame to "world"
+4. At the Displays Sidebar add the display types "rviz > Marker" and "rviz > TF"
+5. File > Save Config
 
 CASPR Simulation
 ~~~~~~~~~~~~~~~~
@@ -45,6 +48,6 @@ CASPR Simulation
 4. Click the ``Create Script`` button to generate a script for inverse kinematics simulation
 5. Add this line at the end of the script to visualize the simulation result in RViz::
 
-    MotionSimulatorBase.plotCARDSFlow(modelObj, sim.trajectory);    
+    MotionSimulatorBase.plotCARDSFlow(modelObj, sim.trajectory);
 
 .. figure:: images/caspr_planar2r.png
