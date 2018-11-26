@@ -34,6 +34,9 @@ Launching CARDSflow
 
     roslaunch cardsflow_rviz simple_visualization.launch
 2. Add the CARDSflow panel in RViz
+3. At the Displays Sidebar set Globals Options > Fixed Frame to "world"
+4. At the Displays Sidebar add the display types "rviz > Marker" and "rviz > TF"
+5. File > Save Config
 
 CASPR Simulations
 ~~~~~~~~~~~~~~~~~
