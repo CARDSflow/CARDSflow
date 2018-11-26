@@ -32,7 +32,7 @@ First we need to build iDynTree (for more details on this step, visit the `iDynT
 
 Next we need to build and install qpoases:
 ::
-    cd qpoases
+    cd qpOASES/
     mkdir build && cd build
     cmake ../
     sudo make -j9 install

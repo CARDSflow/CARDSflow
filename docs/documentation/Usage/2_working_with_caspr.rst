@@ -38,16 +38,20 @@ Launching CARDSflow
 4. At the Displays Sidebar add the display types "rviz > Marker" and "rviz > TF"
 5. File > Save Config
 
-CASPR Simulation
-~~~~~~~~~~~~~~~~
+CASPR Simulations
+~~~~~~~~~~~~~~~~~
 1. Launch the GUI in CASPR by::
 
     CASPR_GUI
 2. Select ``Example 2R planar XZ`` from the ``Model`` pull down menu
-3. Click the ``Kinematics`` button in ``Simulators``
-4. Click the ``Create Script`` button to generate a script for inverse kinematics simulation
-5. Add this line at the end of the script to visualize the simulation result in RViz::
+3. Press the ``To Rviz`` button on the GUI and verify that the robot is visualized in RViz
 
-    MotionSimulatorBase.plotCARDSFlow(modelObj, sim.trajectory);
+.. figure:: images/caspr_gui_planar.PNG
+
+4. Press the ``Kinematics`` button in ``Simulators``
+5. Run an inverse kinematics simulation by pressing the ``Run`` button
+
+.. figure:: images/caspr_kin_planar.PNG
+6. Press the ``RViz`` button to visualize the trajectory
 
 .. figure:: images/caspr_planar2r.png
