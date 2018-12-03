@@ -24,7 +24,7 @@ Roboy 2.0 upper body with the 3-DoF head and his two 5-DoF arms. Use the followi
 ::
     roslaunch kindyn robot.launch robot_name:=roboy_upper_body start_controllers:='spine_v0_axis0 spine_v0_axis1
     spine_v0_axis2 spine_v1_axis0 spine_v1_axis1 spine_v1_axis2 spine_v2_axis0 spine_v2_axis1 spine_v2_axis2
-    sphere_head_axis0sphere_head_axis0 sphere_head_axis1 sphere_head_axis2 sphere_left_axis0 sphere_left_axis1
+    sphere_head_axis0 sphere_head_axis1 sphere_head_axis2 sphere_left_axis0 sphere_left_axis1
     sphere_left_axis2 elbow_left_rot0 elbow_left_rot1 sphere_right_axis0 sphere_right_axis1 sphere_right_axis2
     elbow_right_rot0 elbow_right_rot1'
 
