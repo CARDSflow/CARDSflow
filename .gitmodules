@@ -31,3 +31,6 @@
 [submodule "CASPR"]
 	path = CASPR
 	url = https://github.com/darwinlau/CASPR
+[submodule "cardsflow_physix"]
+	path = cardsflow_physix
+	url = https://github.com/letrend/cardsflow_physix
