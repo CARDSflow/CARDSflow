@@ -1,6 +1,7 @@
 [submodule "kindyn"]
 	path = kindyn
 	url = https://github.com/CARDSflow/kindyn
+	branch = deepRoboy-feature
 [submodule "roboy_communication"]
 	path = roboy_communication
 	url = https://github.com/Roboy/roboy_communication
