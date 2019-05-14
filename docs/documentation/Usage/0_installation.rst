@@ -13,6 +13,14 @@ Make sure you install the following packages:
     ros-kinetic-moveit-msgs doxygen swig mscgen ros-kinetic-grid-map ros-kinetic-aruco-detect \
     ros-kinetic-controller-interface ros-kinetic-controller-manager \
     ros-kinetic-effort-controllers libxml++2.6-dev ros-kinetic-robot-localization libalglib-dev nlohmann-json-dev
+JSON
+----
+::
+    git clone https://github.com/nlohmann/json
+    cd json && mkdir build && cd build
+    cmake ..
+    make -j8
+    sudo make install
 Get The Code
 ------------
 Clone the code to your catkin workspace:
