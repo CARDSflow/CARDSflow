@@ -15,7 +15,7 @@
 	url = https://github.com/Roboy/common_utilities
 [submodule "cardsflow_gazebo"]
 	path = cardsflow_gazebo
-	url = https://github.com/cardsflow/cardsflow_gazebo
+	url = https://github.com/CARDSflow/cardsflow_gazebo
 [submodule "cardsflow_rqt"]
 	path = cardsflow_rqt
 	url = https://github.com/CARDSflow/cardsflow_rqt
