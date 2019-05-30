@@ -12,9 +12,10 @@ Make sure you install the following packages:
     qml-module-qtquick-controls qml-module-qt-labs-folderlistmodel qml-module-qt-labs-settings \
     ros-kinetic-moveit-msgs doxygen swig mscgen ros-kinetic-grid-map ros-kinetic-aruco-detect \
     ros-kinetic-controller-interface ros-kinetic-controller-manager \
-    ros-kinetic-effort-controllers libxml++2.6-dev ros-kinetic-robot-localization libalglib-dev nlohmann-json-dev
+    ros-kinetic-effort-controllers libxml++2.6-dev ros-kinetic-robot-localization libalglib-dev
 JSON
 ----
+Install the newest json (version 3.6.1 at this time):
 ::
     git clone https://github.com/nlohmann/json
     cd json && mkdir build && cd build
