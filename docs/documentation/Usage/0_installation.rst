@@ -3,16 +3,16 @@ Installation
 
 Prerequisites
 -------------
-The CARDSflow repo has only been tested on Ubuntu 16.04 with ROS kinetic. It may work on different platforms with different ROS versions.
+The CARDSflow repo has been tested on Ubuntu 16.04 with ROS kinetic and Ubunutu 18.04 with ROS melodic. It may work on different platforms with different ROS versions.
 Make sure you install the following packages:
 ::
-    sudo apt install ros-kinetic-desktop-full libeigen3-dev libxml2-dev coinor-libipopt-dev \
+    sudo apt install ros-$ROS_DISTRO-desktop-full libeigen3-dev libxml2-dev coinor-libipopt-dev \
     qtbase5-dev qtdeclarative5-dev qtmultimedia5-dev qml-module-qtquick2 \
     qml-module-qtquick-window2 qml-module-qtmultimedia qml-module-qtquick-dialogs \
     qml-module-qtquick-controls qml-module-qt-labs-folderlistmodel qml-module-qt-labs-settings \
-    ros-kinetic-moveit-msgs doxygen swig mscgen ros-kinetic-grid-map ros-kinetic-aruco-detect \
-    ros-kinetic-controller-interface ros-kinetic-controller-manager \
-    ros-kinetic-effort-controllers libxml++2.6-dev ros-kinetic-robot-localization libalglib-dev
+    ros-$ROS_DISTRO-moveit-msgs doxygen swig mscgen ros-$ROS_DISTRO-grid-map \
+    ros-$ROS_DISTRO-controller-interface ros-$ROS_DISTRO-controller-manager ros-$ROS_DISTRO-aruco-detect \
+    ros-$ROS_DISTRO-effort-controllers libxml++2.6-dev ros-$ROS_DISTRO-robot-localization libalglib-dev
 JSON
 ----
 Install the newest json (version 3.6.1 at this time):
